@@ -6,7 +6,6 @@
 //  Copyright (c) 2013 Avaya. All rights reserved.
 //New comment
 
-//Yet another comment fot GIT Testing
 //Adding new comments
 #import <UIKit/UIKit.h>
 
